@@ -5,7 +5,7 @@
 
 Welcome to my website. I'm a research economist at the Central Bank of Uruguay. I hold a PhD from Centro de Estudios Monetarios y Financieros (CEMFI), a Msc in Economics and Finance from CEMFI and a B.A. from Universidad de la República. My research interests are in the fields of International Macroeconomics, Monetary and Fiscal Policy.
 
-[Curriculum Vitae](https://github.com/tisnesesteban/skills-github-pages/cv.pdf)
+[Curriculum Vitae](nomandar_Diploma_CEMFI_Master_mail.pdf)
 
 {%
   include button.html
